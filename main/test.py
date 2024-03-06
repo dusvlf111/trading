@@ -1,5 +1,6 @@
 from MY_logger.MY_logger import logger
 from exception_handler.exception_handler import *
+from MY_load_dotenv.load_env import load_env_variables
 
 # ------------------------------------------------------------
 
@@ -34,3 +35,11 @@ exception_test_pass()
 #     logger.error(e)
 
 # print('hello')
+# ------------------------------------------------------------
+
+# .env 파일 내의 환경 변수 읽어오기
+env_variables = load_env_variables()
+
+# 결과 출력
+for key, value in env_variables.items():
+        print(f"{key}: {value}")

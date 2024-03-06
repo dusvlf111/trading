@@ -2,8 +2,9 @@ from ui.ui import *
 from kiwoom.kiwoom import *
 
 # --------------------------------------------------
-from MY_logger.MY_logger import logger
-from MY_load_dotenv.load_env import load_env_variables
+#내 모듈
+from MY_logger.MY_logger import logger  #로거 설정 모듈 (전역)
+from MY_load_dotenv.load_env import load_env_variables  #env읽기 모듈
 from exception_handler.exception_handler import *
 # --------------------------------------------------
 
