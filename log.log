@@ -1,0 +1,74 @@
+2024-03-07 03:27:24 - INFO - __init__.py:15 - <module> - --------------------start programe--------------------
+2024-03-07 03:27:24 - DEBUG - __init__.py:7 - __init__ - Main init
+2024-03-07 03:27:24 - DEBUG - ui.py:10 - __init__ - ui_class init
+2024-03-07 03:27:24 - DEBUG - kiwoom.py:8 - __init__ - Kiwoom init
+2024-03-07 03:27:24 - DEBUG - kiwoom.py:14 - get_ocx_instance - set API
+2024-03-07 03:48:53 - INFO - __init__.py:16 - <module> - --------------------start programe--------------------
+2024-03-07 03:48:53 - DEBUG - __init__.py:7 - __init__ - Main init
+2024-03-07 03:48:53 - DEBUG - ui.py:10 - __init__ - ui_class init
+2024-03-07 03:48:53 - DEBUG - kiwoom.py:8 - __init__ - Kiwoom init
+2024-03-07 03:48:53 - DEBUG - kiwoom.py:15 - get_ocx_instance - set API
+2024-03-07 03:48:53 - DEBUG - exception_handler.py:31 - wrapper - done
+2024-03-07 03:48:53 - DEBUG - exception_handler.py:34 - wrapper - start
+2024-03-07 03:50:46 - INFO - __init__.py:16 - <module> - --------------------start programe--------------------
+2024-03-07 03:50:46 - DEBUG - __init__.py:7 - __init__ - Main init
+2024-03-07 03:50:46 - DEBUG - ui.py:10 - __init__ - ui_class init
+2024-03-07 03:50:46 - DEBUG - kiwoom.py:8 - __init__ - Kiwoom init
+2024-03-07 03:50:46 - DEBUG - kiwoom.py:15 - get_ocx_instance - set API
+2024-03-07 03:50:47 - DEBUG - exception_handler.py:14 - wrapper - done
+2024-03-07 03:50:47 - DEBUG - exception_handler.py:17 - wrapper - start
+2024-03-07 03:55:06 - INFO - test.py:4 - logger_test - info message
+2024-03-07 03:55:30 - INFO - test.py:4 - logger_test - info message
+2024-03-07 04:01:23 - INFO - test.py:4 - logger_test - info message
+2024-03-07 04:01:34 - INFO - test.py:4 - logger_test - info message
+2024-03-07 04:04:27 - INFO - test.py:4 - logger_test - info message
+2024-03-07 04:05:27 - INFO - test.py:4 - logger_test - info message
+2024-03-07 04:05:27 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: This is a deliberate error.
+2024-03-07 04:08:25 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:08:25 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:08:25 - ERROR - exception_handler.py:18 - wrapper - An exception occurred and pass: This is a test2 error.
+2024-03-07 04:09:00 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:09:00 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:09:00 - ERROR - exception_handler.py:18 - wrapper - An exception occurred and pass: This is a test2 error.
+2024-03-07 04:09:44 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:09:44 - ERROR - exception_handler.py:18 - wrapper - An exception occurred and pass: This is a test2 error.
+2024-03-07 04:09:44 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:13:30 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:13:30 - ERROR - exception_handler.py:18 - wrapper - An exception occurred and pass: This is a test1 error.
+2024-03-07 04:13:30 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: This is a test2 error.
+2024-03-07 04:15:51 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:15:51 - ERROR - exception_handler.py:18 - wrapper - An exception occurred and pass: This is a test1 error.
+2024-03-07 04:15:51 - ERROR - exception_handler.py:10 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:21:22 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:21:22 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:21:22 - ERROR - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:23:21 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:23:21 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:23:21 - CRITICAL - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:23:21 - CRITICAL - exception_handler.py:21 - wrapper - Forcefully terminating the program
+2024-03-07 04:25:08 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:25:08 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:25:08 - CRITICAL - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:25:08 - CRITICAL - exception_handler.py:21 - wrapper - --------------------Forcefully terminating the program--------------------
+2024-03-07 04:27:55 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:27:55 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:27:55 - CRITICAL - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:27:55 - CRITICAL - exception_handler.py:21 - wrapper - --------------------Forcefully terminating the program--------------------
+2024-03-07 04:30:36 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:30:36 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:30:36 - DEBUG - test.py:23 - exception_test - exception_test
+2024-03-07 04:30:36 - CRITICAL - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:30:36 - CRITICAL - exception_handler.py:21 - wrapper - --------------------Forcefully terminating the program--------------------
+2024-03-07 04:31:37 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:31:37 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:31:37 - DEBUG - test.py:23 - exception_test - exception_test
+2024-03-07 04:31:37 - CRITICAL - exception_handler.py:20 - wrapper - An exception occurred: invalid literal for int() with base 10: 'abc'
+2024-03-07 04:31:37 - CRITICAL - exception_handler.py:21 - wrapper - --------------------Forcefully terminating the program--------------------
+2024-03-07 04:34:17 - INFO - test.py:7 - logger_test - info message
+2024-03-07 04:34:17 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 04:34:17 - ERROR - test.py:34 - <module> - invalid literal for int() with base 10: 'abc'
+2024-03-07 04:37:04 - INFO - __init__.py:16 - <module> - --------------------start programe--------------------
+2024-03-07 04:37:04 - DEBUG - __init__.py:7 - __init__ - Main init
+2024-03-07 04:37:04 - DEBUG - ui.py:10 - __init__ - ui_class init
+2024-03-07 04:37:04 - DEBUG - kiwoom.py:8 - __init__ - Kiwoom init
+2024-03-07 04:37:04 - DEBUG - kiwoom.py:15 - get_ocx_instance - set API

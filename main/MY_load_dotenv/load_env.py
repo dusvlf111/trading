@@ -11,7 +11,7 @@ def load_env_variables(file_path=".env"):
     Returns:
     - dict: A dictionary containing the loaded environment variables.
     """
-    dotenv.load_dotenv(file_path)
+    load_dotenv(file_path)
 
     env_variables = {}
     with open(file_path, "r") as file:

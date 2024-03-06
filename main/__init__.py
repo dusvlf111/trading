@@ -3,6 +3,7 @@ from kiwoom.kiwoom import *
 
 # --------------------------------------------------
 from MY_logger.MY_logger import logger
+from MY_load_dotenv.load_env import load_env_variables
 from exception_handler.exception_handler import *
 # --------------------------------------------------
 
