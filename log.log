@@ -74,3 +74,10 @@
 2024-03-07 04:37:04 - DEBUG - kiwoom.py:15 - get_ocx_instance - set API
 2024-03-07 05:33:28 - INFO - test.py:8 - logger_test - info message
 2024-03-07 05:33:28 - ERROR - exception_handler.py:11 - wrapper - An exception occurred: This is a test1 error.
+2024-03-07 06:05:59 - INFO - __init__.py:23 - <module> - --------------------start programe--------------------
+2024-03-07 06:05:59 - DEBUG - __init__.py:14 - __init__ - Main init
+2024-03-07 06:05:59 - DEBUG - ui.py:10 - __init__ - ui_class init
+2024-03-07 06:05:59 - DEBUG - kiwoom.py:12 - __init__ - Kiwoom init
+2024-03-07 06:05:59 - DEBUG - kiwoom.py:29 - get_ocx_instance - set API
+2024-03-07 06:06:00 - DEBUG - kiwoom.py:35 - event_slots - event_slots
+--------------------------------------------------------------------------------------------------------------------------

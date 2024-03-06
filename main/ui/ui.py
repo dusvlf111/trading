@@ -10,5 +10,5 @@ class Ui_class():
         logger.debug('ui_class init')
         self.app = QApplication(sys.argv)
         
-        Kiwoom()
+        self.kiwoom = Kiwoom()
         self.app.exec_()
